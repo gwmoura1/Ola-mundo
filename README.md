@@ -1,6 +1,6 @@
 # Olá, mundo
- primeiro repositório do curso de GitHub
+ **primeiro repositório do curso de GitHub**
 
-repositório criado durante aula ao vivo
+*repositório criado durante aula ao vivo*
 
 linha criada diretamente no site
